@@ -1,5 +1,10 @@
 # One Dark PyCharm theme
 
+This fork contains a few color alterations based on my own personal preferences.
+
+## Changes ##
+- Weak Warning underwave effect color changed from #333434 to #9a9b9b (https://github.com/ThorThorsen/idea-one-dark-theme/pull/1)
+
 [One Dark](https://github.com/atom/one-dark-syntax) theme for IntelliJ IDEA, PhpStorm, PyCharm, RubyMine, WebStorm
 
 ![](screenshots/1.png)
